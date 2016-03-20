@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.jar
+war/WEB-INF/classes/log4j.properties
+war/WEB-INF/classes/META-INF/jdoconfig.xml
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.project
+.classpath
+war/WEB-INF/classes/META-INF/persistence.xml
+.settings/com.google.gdt.eclipse.core.prefs
+.settings/com.google.appengine.eclipse.core.prefs
+.settings/org.eclipse.jdt.core.prefs
